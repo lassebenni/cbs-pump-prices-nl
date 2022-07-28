@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80416NED/table?fromstatweb | jq . > incidents.json
+        curl https://opendata.cbs.nl/ODataApi/OData/80416ned/TypedDataSet | jq . > incidents.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
