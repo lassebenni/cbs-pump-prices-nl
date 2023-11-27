@@ -45682,6 +45682,55 @@
       "BenzineEuro95_1": 1.997,
       "Diesel_2": 1.831,
       "Lpg_3": 0.805
+    },
+    {
+      "ID": 6526,
+      "Perioden": "20231114",
+      "BenzineEuro95_1": 1.991,
+      "Diesel_2": 1.824,
+      "Lpg_3": 0.799
+    },
+    {
+      "ID": 6527,
+      "Perioden": "20231115",
+      "BenzineEuro95_1": 1.988,
+      "Diesel_2": 1.816,
+      "Lpg_3": 0.799
+    },
+    {
+      "ID": 6528,
+      "Perioden": "20231116",
+      "BenzineEuro95_1": 1.982,
+      "Diesel_2": 1.809,
+      "Lpg_3": 0.799
+    },
+    {
+      "ID": 6529,
+      "Perioden": "20231117",
+      "BenzineEuro95_1": 1.976,
+      "Diesel_2": 1.8,
+      "Lpg_3": 0.798
+    },
+    {
+      "ID": 6530,
+      "Perioden": "20231118",
+      "BenzineEuro95_1": 1.967,
+      "Diesel_2": 1.792,
+      "Lpg_3": 0.803
+    },
+    {
+      "ID": 6531,
+      "Perioden": "20231119",
+      "BenzineEuro95_1": 1.966,
+      "Diesel_2": 1.791,
+      "Lpg_3": 0.797
+    },
+    {
+      "ID": 6532,
+      "Perioden": "20231120",
+      "BenzineEuro95_1": 1.969,
+      "Diesel_2": 1.796,
+      "Lpg_3": 0.8
     }
   ]
 }
