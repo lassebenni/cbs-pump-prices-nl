@@ -52003,6 +52003,104 @@
       "BenzineEuro95_1": 2.389,
       "Diesel_2": 2.365,
       "Lpg_3": 1.023
+    },
+    {
+      "ID": 7429,
+      "Perioden": "20260505",
+      "BenzineEuro95_1": 2.399,
+      "Diesel_2": 2.362,
+      "Lpg_3": 1.024
+    },
+    {
+      "ID": 7430,
+      "Perioden": "20260506",
+      "BenzineEuro95_1": 2.406,
+      "Diesel_2": 2.364,
+      "Lpg_3": 1.019
+    },
+    {
+      "ID": 7431,
+      "Perioden": "20260507",
+      "BenzineEuro95_1": 2.388,
+      "Diesel_2": 2.338,
+      "Lpg_3": 1.009
+    },
+    {
+      "ID": 7432,
+      "Perioden": "20260508",
+      "BenzineEuro95_1": 2.381,
+      "Diesel_2": 2.301,
+      "Lpg_3": 1.016
+    },
+    {
+      "ID": 7433,
+      "Perioden": "20260509",
+      "BenzineEuro95_1": 2.378,
+      "Diesel_2": 2.286,
+      "Lpg_3": 1.009
+    },
+    {
+      "ID": 7434,
+      "Perioden": "20260510",
+      "BenzineEuro95_1": 2.378,
+      "Diesel_2": 2.284,
+      "Lpg_3": 1.013
+    },
+    {
+      "ID": 7435,
+      "Perioden": "20260511",
+      "BenzineEuro95_1": 2.378,
+      "Diesel_2": 2.288,
+      "Lpg_3": 1.002
+    },
+    {
+      "ID": 7436,
+      "Perioden": "20260512",
+      "BenzineEuro95_1": 2.379,
+      "Diesel_2": 2.285,
+      "Lpg_3": 1.014
+    },
+    {
+      "ID": 7437,
+      "Perioden": "20260513",
+      "BenzineEuro95_1": 2.383,
+      "Diesel_2": 2.283,
+      "Lpg_3": 1.006
+    },
+    {
+      "ID": 7438,
+      "Perioden": "20260514",
+      "BenzineEuro95_1": 2.384,
+      "Diesel_2": 2.282,
+      "Lpg_3": 1.005
+    },
+    {
+      "ID": 7439,
+      "Perioden": "20260515",
+      "BenzineEuro95_1": 2.384,
+      "Diesel_2": 2.284,
+      "Lpg_3": 1.016
+    },
+    {
+      "ID": 7440,
+      "Perioden": "20260516",
+      "BenzineEuro95_1": 2.385,
+      "Diesel_2": 2.277,
+      "Lpg_3": 1.011
+    },
+    {
+      "ID": 7441,
+      "Perioden": "20260517",
+      "BenzineEuro95_1": 2.387,
+      "Diesel_2": 2.281,
+      "Lpg_3": 1.008
+    },
+    {
+      "ID": 7442,
+      "Perioden": "20260518",
+      "BenzineEuro95_1": 2.388,
+      "Diesel_2": 2.285,
+      "Lpg_3": 0.997
     }
   ]
 }
